@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DspesquisaApplication<dspesquisa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.devsuperior.dspesquisa.DspesquisaApplication",
+            "projectName": "dspesquisa",
+            "args": ""
+        }
+    ]
+}
